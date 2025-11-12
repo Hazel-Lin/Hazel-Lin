@@ -19,7 +19,8 @@ Hi there 👋 I’m Hazel / Web developer / coffee lover
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   9 mins          ███████████████▒░░░░░░░░░   61.76 %
+TypeScript   6 mins          █████████▓░░░░░░░░░░░░░░░   38.24 %
 ```
 
 <!--END_SECTION:waka-->
