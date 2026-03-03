@@ -19,11 +19,11 @@ Hi there 👋 I’m Hazel / Web developer / coffee lover
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 54 mins          ███████████████▓░░░░░░░░░   62.83 %
-TypeScript   29 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
-JSON         23 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-JavaScript   8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-MDX          6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Markdown     2 hrs 19 mins         ██████████████▒░░░░░░░░░░   56.94 %
+TypeScript   43 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+JSON         42 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+JavaScript   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+MDX          6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
