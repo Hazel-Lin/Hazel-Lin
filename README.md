@@ -1,20 +1,50 @@
+# Hi, I'm Hazel 👋
 
-Hi there 👋 I’m Hazel / Web developer / coffee lover
+📍 **Shenzhen** | 🤖 **AI-native builder** | **🚀 Indie Hacker**
 
-## ⌨️ Learning
+![Vue](https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-5A67D8?style=flat-square&logo=anthropic&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-<samp>
- <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a>
-  <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:react.svg" /></a>
-  <a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a>
-  <a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a> 
-  <a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a>
-  
+> I like building interfaces that feel clean, fast, and intentional. The details matter: spacing, hierarchy, motion, and the little things that make a product feel finished.
 
-</samp>
+## Current Projects
+
+- 🩺 **[mcp-skill-doctor](https://github.com/Hazel-Lin/mcp-skill-doctor)** - Local-first MCP diagnostics CLI for figuring out why a server or skill will not start
+- 📝 **[chroniq](https://github.com/Hazel-Lin/chroniq)** - Local-first, CLI-first, agent-friendly personal logging
+- 🧠 **[memory-os](https://github.com/Hazel-Lin/memory-os)** - Memory and context tooling for AI-native workflows
+- 🔖 **[bookmark-organizer](https://github.com/Hazel-Lin/bookmark-organizer)** - Utilities for cleaning up and structuring bookmarks
+- 🧩 **[vue3-filter](https://github.com/Hazel-Lin/vue3-filter)** - Filter component for Vue 3 applications
 
 
-## 🦀 Weekly development breakdown
+
+## What I'm building
+
+- Polished front-end experiences with Vue and React
+- Fast, maintainable UI with Vite, TypeScript, and UnoCSS
+- Interfaces that stay clear instead of clever
+
+## Current focus
+
+- Tightening visual hierarchy and interaction quality
+- Staying sharp on modern front-end tooling
+- Making the final 10% of a UI feel easy instead of expensive
+
+
+## Coding breakdown
 
 <!--START_SECTION:waka-->
 
@@ -27,7 +57,13 @@ Bash         15 mins               ▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-## 👬🏻 Visitors
 
-![gh_visitors](https://profile-counter.glitch.me/Hazel-Lin/count.svg)
+## GitHub Activity
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/Hazel-Lin)
+
+## Connect
+
+[![X](https://img.shields.io/badge/-@HazelLin549-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/HazelLin549)
+[![GitHub](https://img.shields.io/badge/-Hazel--Lin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hazel-Lin)
+![WeChat Official Account](https://img.shields.io/badge/-公众号%20熠萧AI-07C160?style=flat-square&logo=wechat&logoColor=white)
