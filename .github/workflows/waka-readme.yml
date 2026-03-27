@@ -25,4 +25,4 @@ jobs:
           SHOW_TOTAL: false
           SHOW_MASKED_TIME: true
           STOP_AT_OTHER: false
-          IGNORED_LANGUAGES: Markdown JSON Git Config Text TOML YAML XML CSV TSV
+          IGNORED_LANGUAGES: Markdown JSON "Git Config" Text TOML YAML XML CSV TSV
