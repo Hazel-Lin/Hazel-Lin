@@ -1,10 +1,12 @@
 name: Waka - Readme
-            
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: "0 0 * * *" # 08:00 Asia/Shanghai
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -14,7 +16,13 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
+          REPOSITORY: Hazel-Lin/Hazel-Lin
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: Markdown JSON Git Config Text TOML YAML XML CSV TSV
