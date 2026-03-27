@@ -39,19 +39,6 @@
 - Making the final 10% of a UI feel easy instead of expensive
 
 
-## Coding breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Markdown     5 hrs 53 mins         ██████████░░░░░░░░░░░░░░░   43.42 %
-TypeScript   3 hrs 46 mins         ██████▒░░░░░░░░░░░░░░░░░░   27.81 %
-JSON         3 hrs 39 mins         ██████▒░░░░░░░░░░░░░░░░░░   26.94 %
-Bash         15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-```
-
-<!--END_SECTION:waka-->
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Hazel-Lin)
