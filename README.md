@@ -18,24 +18,28 @@
 
 ## Current Projects
 
-- 🩺 **[mcp-skill-doctor](https://github.com/Hazel-Lin/mcp-skill-doctor)** - Local-first MCP diagnostics CLI for figuring out why a server or skill will not start
-- 📝 **[chroniq](https://github.com/Hazel-Lin/chroniq)** - Local-first, CLI-first, agent-friendly personal logging
-- 🧠 **[memory-os](https://github.com/Hazel-Lin/memory-os)** - Memory and context tooling for AI-native workflows
-- 🔖 **[bookmark-organizer](https://github.com/Hazel-Lin/bookmark-organizer)** - Utilities for cleaning up and structuring bookmarks
-- 🧩 **[vue3-filter](https://github.com/Hazel-Lin/vue3-filter)** - Filter component for Vue 3 applications
+- 🧠 **[memory-os](https://github.com/Hazel-Lin/memory-os)** — Local-first context layer for AI work. Profile, projects, insights — served via CLI, API, and MCP
+- 📝 **[chroniq](https://github.com/Hazel-Lin/chroniq)** — CLI-first personal logging for humans and agents. Append-only JSONL, one command to capture. `npm i -g @hazellin/chroniq`
+- 🩺 **[mcp-skill-doctor](https://github.com/Hazel-Lin/mcp-skill-doctor)** — Pre-flight diagnostics for MCP servers. Catches PATH, env, and cwd issues before the protocol layer loads
+- 🔖 **[bookmark-organizer](https://github.com/Hazel-Lin/bookmark-organizer)** — Audit, flatten, and restructure browser bookmarks without deleting anything
+- 🧩 **[vue3-filter](https://github.com/Hazel-Lin/vue3-filter)** — Composable filter component for Vue 3 applications
 
 
 
 ## What I'm building
 
-- Polished front-end experiences with Vue and React
-- Fast, maintainable UI with Vite, TypeScript, and UnoCSS
-- Interfaces that stay clear instead of clever
+The gap between AI capabilities and daily workflow is mostly an infrastructure problem. I build the small, sharp tools that close it:
+
+- **Context persistence** — so AI doesn't start from zero every session
+- **Agent-friendly CLIs** — structured output, local-first, zero lock-in
+- **MCP ecosystem tooling** — making the last mile of server setup less painful
+
+I also care about craft on the frontend: clean interfaces built with Vue, React, and TypeScript, where spacing, hierarchy, and motion all earn their place.
 
 ## Current focus
 
-- Tightening visual hierarchy and interaction quality
-- Staying sharp on modern front-end tooling
+- Shipping memory-os as a reusable context layer across Claude, Codex, and terminal agents
+- Growing mcp-skill-doctor from MVP to daily-driver reliability
 - Making the final 10% of a UI feel easy instead of expensive
 
 
@@ -47,4 +51,8 @@
 
 [![X](https://img.shields.io/badge/-@HazelLin549-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/HazelLin549)
 [![GitHub](https://img.shields.io/badge/-Hazel--Lin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hazel-Lin)
-![WeChat Official Account](https://img.shields.io/badge/-公众号%20熠萧AI-07C160?style=flat-square&logo=wechat&logoColor=white)
+<details>
+<summary><img src="https://img.shields.io/badge/-公众号%20熠萧AI-07C160?style=flat-square&logo=wechat&logoColor=white" /></summary>
+<br>
+<img src="./wechat-qrcode.png" width="150" alt="扫码关注 熠萧AI" />
+</details>
