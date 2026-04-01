@@ -51,8 +51,4 @@ I also care about craft on the frontend: clean interfaces built with Vue, React,
 
 [![X](https://img.shields.io/badge/-@HazelLin549-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/HazelLin549)
 [![GitHub](https://img.shields.io/badge/-Hazel--Lin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hazel-Lin)
-<details>
-<summary><img src="https://img.shields.io/badge/-公众号%20熠萧AI-07C160?style=flat-square&logo=wechat&logoColor=white" /></summary>
-<br>
-<img src="./wechat-qrcode.png" width="150" alt="扫码关注 熠萧AI" />
-</details>
+<img src="https://img.shields.io/badge/-公众号%20熠萧AI-07C160?style=flat-square&logo=wechat&logoColor=white" />
